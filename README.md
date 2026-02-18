@@ -29,7 +29,7 @@
 
 ## 📫 Connect with me
 - GitHub: https://github.com/Junedshaikh1
-- LinkedIn:www.linkedin.com/in/juned-shaikh-
+- LinkedIn:https://www.linkedin.com/in/juned-shaikh-00214a29a/
 
 
 ⭐ Always learning. Always building.
