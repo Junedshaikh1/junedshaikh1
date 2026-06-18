@@ -2,13 +2,13 @@
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
 💻 Focus: Python | Machine Learning | Open Source  
-🌱 Preparing for Google Summer of Code (GSoC 2026)
 
 ---
 
 ## 🧠 Skills
 - Python, NumPy, Pandas
 - Machine Learning, Data Science
+- Excel, PowerBI, SQL
 - Git, GitHub
 - Basic Deep Learning
 
